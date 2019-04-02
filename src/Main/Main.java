@@ -1,9 +1,9 @@
 package Main;
 
-import Tasks.Problem40;
+import Tasks.*;
 
 public class Main {
     public static void main(String[] args) {
-        new Problem40().start();
+        new Problem1().start();
     }
 }
