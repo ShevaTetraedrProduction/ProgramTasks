@@ -4,6 +4,6 @@ import Tasks.*;
 
 public class Main {
     public static void main(String[] args) {
-        new Problem2().start();
+        System.out.println(new Problem3().start());
     }
 }
