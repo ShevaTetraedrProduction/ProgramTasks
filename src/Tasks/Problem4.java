@@ -19,7 +19,7 @@ public class Problem4 {
                 "випадку остання цифра дорівнює 9-2 = 7.";
 
 
-        int [] array = new int[3];
+        int[] array = new int[3];
         Scanner in = new Scanner(System.in);
         System.out.println("Введіть першу цифру");
         array[0] = in.nextInt();
@@ -27,6 +27,6 @@ public class Problem4 {
         array[2] = array[1] - array[0];
 
 
- return  String.valueOf(array[0])+(array[1])+(array[2]);
+        return String.valueOf(array[0]) + (array[1]) + (array[2]);
     }
 }
