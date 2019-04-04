@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Problem5 {
-    public int start() {
+    public String start() {
         Scanner in = new Scanner(System.in);
         ArrayList al = new ArrayList();
         System.out.println("Введіть числа місяця,в які Василь отримував оцінку, якщо захочете завершити вводити числа натисніть\"0\"");
@@ -30,11 +30,8 @@ public class Problem5 {
             }
         }
         System.out.println();
-        if (f > s) System.out.println("YES");
-        else System.out.println("NO");
+        if (s <= f)return  "YES";
+        else return  "NO";
 
-
-
-        return 0;
     }
 }
