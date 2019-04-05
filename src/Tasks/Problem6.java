@@ -9,6 +9,7 @@ public class Problem6 {
 
     public String start() {
         Scanner in = new Scanner(System.in);
+        System.out.println("Введіть початкові і кінцеві координати коня \"E5-D7\"");
         String command = in.nextLine();
 
         boolean isWright = false;
