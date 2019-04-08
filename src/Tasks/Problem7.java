@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Problem7 {
     public long start() {
         Scanner in = new Scanner(System.in);
-        System.out.println("Введіть 3 числа");
+        System.out.println("Введіть 3 числа для знаходження максимального");
         long[] array = new long[3];
         for (int i = 0; i < 3; i++) {
             array[i] = in.nextInt();
