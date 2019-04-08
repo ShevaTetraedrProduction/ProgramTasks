@@ -16,7 +16,7 @@ public class Problem9 {
             if (temp <= 100)
                 array[i] = temp;
         }
-        
+
         a[0] = addAllPositive(array);
         a[1] = milti(array);
 
