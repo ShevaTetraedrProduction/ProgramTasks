@@ -10,13 +10,13 @@ public class Problem9 {
         int[] array = new int[length];
         int[] a = new int[2];
         int temp = 0;
+        System.out.println("Запишіть " + length + " значень");
         for (int i = 0; i < length; i++) {
             temp = in.nextInt();
             if (temp <= 100)
                 array[i] = temp;
         }
-
-
+        
         a[0] = addAllPositive(array);
         a[1] = milti(array);
 

@@ -60,11 +60,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Tasks/Problem9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+            <state relative-caret-position="305">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="method#minValue#0;class#Problem9#0" />
+                <element signature="method#maxValue#0;class#Problem9#0" />
                 <element signature="method#addAllPositive#0;class#Problem9#0" />
+                <element signature="method#milti#0;class#Problem9#0" />
               </folding>
             </state>
           </provider>
@@ -114,7 +116,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -218,15 +220,16 @@
       <workItem from="1554364976803" duration="7539000" />
       <workItem from="1554381475754" duration="8260000" />
       <workItem from="1554448427542" duration="5049000" />
-      <workItem from="1554710244328" duration="2882000" />
+      <workItem from="1554710244328" duration="3642000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39265000" />
+    <option name="totallyTimeSpent" value="40025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -345,11 +348,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tasks/Problem9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+        <state relative-caret-position="305">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="method#minValue#0;class#Problem9#0" />
+            <element signature="method#maxValue#0;class#Problem9#0" />
             <element signature="method#addAllPositive#0;class#Problem9#0" />
+            <element signature="method#milti#0;class#Problem9#0" />
           </folding>
         </state>
       </provider>
